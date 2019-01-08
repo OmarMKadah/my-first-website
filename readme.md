@@ -18,7 +18,7 @@ Currently there are no known bugs
 
 ## Support and contact details
 
-If you have any questions about this fictional person, don't bother because we don't actually know them. If you have any questions about the code, or anything else, feel free to contact the developers at
+If you have any questions about this fictional person, don't bother because we don't actually know them. If you have any questions about the code, or anything else, feel free to contact the developers at:
 
 Jack: jackpaulcollins@gmail.com
 
